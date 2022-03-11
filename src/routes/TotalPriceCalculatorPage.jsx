@@ -5,7 +5,7 @@ export default function TotalPriceCalculatorPage() {
   return (
     <>
       <section>
-        <CalculatorDescription title="Total Price Calculator">
+        <CalculatorDescription title="Taxed Price Calculator">
           <p>
             This calculator calculates final price based on initial price, PPN,
             and amount of discount.
